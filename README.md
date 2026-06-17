@@ -21,7 +21,7 @@ autosubmit --version
 Create a dummy Autosubmit experiment:
 
 ```bash
-autosubmit expid -dm -d "a2_workflow"
+autosubmit expid -dm -d "test_workflow"
 ```
 
 Autosubmit creates a new experiment ID:
