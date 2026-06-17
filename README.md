@@ -14,12 +14,6 @@ Verify Autosubmit installation:
 autosubmit --version
 ```
 
-Example output:
-
-```text
-4.1.15
-```
-
 ---
 
 # Step 1: Create a New Experiment
