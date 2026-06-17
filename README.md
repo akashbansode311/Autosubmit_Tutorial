@@ -2,14 +2,7 @@
 
 ## Objective
 
-Learn the basic Autosubmit workflow by creating a simple experiment consisting of three dependent jobs:
-
-```text
-JOB_A
-  ↓
-JOB_B
-  ↓
-JOB_C
+Learn the basic Autosubmit workflow by creating a simple experiment consisting of three dependent jobs : JOB_A  JOB_B  JOB_C
 ```
 
 Each job prints a message and exits successfully.
